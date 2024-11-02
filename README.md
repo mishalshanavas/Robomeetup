@@ -35,7 +35,11 @@ With RoboMeetup’s ultra-secure methods, humans are effectively *locked out*, l
 
 ## Screenshots
 
-![ezgif-2-99c60bd88b](https://github.com/user-attachments/assets/aa7b62ea-1658-4a31-bcb8-c1de35f20f9f)
+
+<img src="https://github.com/user-attachments/assets/aa7b62ea-1658-4a31-bcb8-c1de35f20f9f"  width="700">
+<img src="https://github.com/user-attachments/assets/7b601082-ea47-4468-9620-5181b5eacecd"  width="320">
+<img src="https://github.com/user-attachments/assets/275b933c-2036-450f-854a-84c09ff4099c"  width="320">
+<img src="https://github.com/user-attachments/assets/618cdf5f-ed1a-42b7-8d63-e7c048ad2a97"  width="320">
 
 
 
