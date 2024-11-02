@@ -33,3 +33,9 @@ With RoboMeetup’s ultra-secure methods, humans are effectively *locked out*, l
 
 - **Languages:** HTML CSS JavaScript ☕️
 
+## Screenshots
+
+![ezgif-2-99c60bd88b](https://github.com/user-attachments/assets/aa7b62ea-1658-4a31-bcb8-c1de35f20f9f)
+
+
+
