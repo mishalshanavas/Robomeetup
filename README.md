@@ -32,13 +32,20 @@ With RoboMeetup’s ultra-secure methods, humans are effectively *locked out*, l
 **Technologies and Components Used:**
 
 - **Languages:** HTML CSS JavaScript ☕️
+- **Tools:** Docker 🐳, Git 🧬, Visual Studio Code 🖥️
+- **Ai tools** To optimize perfomence and conqure the world
 
 ## Screenshots
-
-
 <img src="https://github.com/user-attachments/assets/aa7b62ea-1658-4a31-bcb8-c1de35f20f9f"  width="700">
-<img src="https://github.com/user-attachments/assets/7b601082-ea47-4468-9620-5181b5eacecd"  width="335">
-<img src="https://github.com/user-attachments/assets/618cdf5f-ed1a-42b7-8d63-e7c048ad2a97"  width="335">
+<img src="https://github.com/user-attachments/assets/7b601082-ea47-4468-9620-5181b5eacecd"  width="340">
+<img src="https://github.com/user-attachments/assets/618cdf5f-ed1a-42b7-8d63-e7c048ad2a97"  width="340">
 
 
-
+## Run RoboMeetup Locally
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/robomeetup.git
+   cd robomeetup
+   Now Simply open index.html in your preferred browser to start the experience.
+![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+![Static Badge](https://img.shields.io/badge/UselessProject--24-24?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
