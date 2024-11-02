@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap"
+      rel="stylesheet"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="src/fakerecaptcha.css" rel="stylesheet" />
+  </head>
+  <body>
+    <div class="center-box">
+      <div class="title">
+        <h1 class="text">Robo meetup</h1>
+        <span class="text-1">prove you are not a human!</span>
+      </div>
+      <div class="container m-p">
+        <div id="checkbox-window" class="checkbox-window m-p block">
+          <div class="checkbox-container m-p">
+            <button
+              type="button"
+              id="checkbox"
+              class="checkbox m-p line-normal"
+            ></button>
+            <img
+              src="images/captcha_spinner.gif"
+              class="spinner m-p line-normal"
+              id="spinner"
+            />
+          </div>
+          <p class="im-not-a-robot m-p line-normal">I'm not a human</p>
+          <img src="src/logo.png" class="captcha-logo line-normal" alt="" />
+          <div class="res">
+            <span class="result-text" id="result-text"
+              >blah blabah blabhlah blabah blabh
+            </span>
+          </div>
+        </div>
+
+        <div id="verifywin-window" class="verifywin-window">
+          <div class="verifywin-container">
+            <header class="verifywin-header">
+              <span class="question-header m-p block" id="question-P1"
+                >This is your</span
+              >
+              <span class="question-bold m-p block" id="question-bold"
+                >fake captcha</span
+              >
+              <span class="question-header m-p block" id="question-P2"
+                >Customize it however you want</span
+              >
+              <div class="img-box" id="img-box"></div>
+            </header>
+            <main class="verifywin-main">
+              <input
+                type="text"
+                id="answer-input"
+                placeholder="Type your answer here"
+                autocomplete="off"
+              />
+            </main>
+          </div>
+
+          <footer class="verifywin-container verifywin-footer">
+            <div class="verifywin-footer-left">
+              Press the verify button to proceed.
+            </div>
+            <button
+              type="button"
+              class="verifywin-verify-button block"
+              id="verifywin-verify-button"
+            >
+              Verify
+            </button>
+          </footer>
+        </div>
+        <img
+          src="images/captcha_arrow.svg"
+          alt=""
+          class="verifywin-window-arrow"
+          id="verifywin-window-arrow"
+        />
+      </div>
+      <script src="src/fakerecaptcha.js"></script>
+    </div>
+  </body>
+</html>
