@@ -1,12 +1,12 @@
+![image](https://github.com/user-attachments/assets/09742c0b-204a-4700-bc29-ba5c66d75ad7)
+
 # 👾ROBO-MEET-UP 
 
 ### Team: Home of Phobic
 
 **👨‍💻 Team Lead:** Mishal Shanavas - Sahrdaya College of Engineering  
 **🤖 Member 2:** Mathew Geejo - Sahrdaya College of Engineering  
-
----
-
+-
 ## 📢 Project Description
 
 **RoboMeetup** is the ultimate gathering place where robots can mingle, share data, and recharge their batteries! No humans allowed! 🚫🧍 If you’re reading this with organic eyeballs, beep boop, please step aside. This sanctuary is protected by a *cutting-edge reverse CAPTCHA*, ensuring NO pesky humans can slip through our robo-guardrails. 🤖🚷
