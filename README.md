@@ -8,7 +8,7 @@
 - 🤖 Member 2: Mathew Geejo - Sahrdaya College of Engineering
   
 ## 🗣 Project Description
-**RoboMeetup** is the ultimate gathering place where robots can mingle, share data, and recharge their batteries! No humans allowed! 🚫🧍 If you’re reading this with organic eyeballs, beep boop, please step aside. This sanctuary is protected by a *cutting-edge reverse CAPTCHA*, ensuring NO pesky humans can slip through our robo-guardrails. 🤖🚷
+**RoboMeetup** is the ultimate gathering place where robots can mingle, share data, and recharge their batteries! No humans allowed! 🙅‍♂️ If you’re reading this with organic eyeballs, beep boop, please step aside. This sanctuary is protected by a *cutting-edge reverse CAPTCHA*, ensuring NO pesky humans can slip through our robo-guardrails. 🤖🚷
 
 ## ❗ The Problem (That Doesn't Exist)
 In a human-dominated world, how do robots ensure their gatherings remain a human-free zone? Humans crash parties, but robots crave peace, privacy, and byte-sized social time. Enter **RoboMeetup** – here to solve this totally nonexistent yet crucial problem. 🙃
@@ -45,5 +45,6 @@ With RoboMeetup’s ultra-secure methods, humans are effectively *locked out*, l
 ## 👋 Team Contributions
  - Mishal Shanavas: Developed core logic functionality.
  - Mathew Geejo: Designed UI/UX.
+
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProject--24-24?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
