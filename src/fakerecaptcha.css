@@ -7,10 +7,12 @@
   font-family: "Source Sans Pro", sans-serif;
   justify-content: left;
 }
+
 .title {
   text-align: left;
   margin-bottom: 4px;
 }
+
 .img-box {
   padding: 0;
   margin: 0;
@@ -21,14 +23,17 @@
   width: 80px;
   height: 80px;
 }
+
 .text {
   font-family: "Press Start 2P";
   margin: 0;
   margin-bottom: 20px;
 }
+
 .text-1 {
   font-family: "Courier New", Courier, monospace;
 }
+
 body,
 html {
   height: 100%;
@@ -37,6 +42,7 @@ html {
   justify-content: center;
   align-items: center;
 }
+
 input {
   margin-top: 20px;
   margin-bottom: 40px;
@@ -52,12 +58,14 @@ input {
   border-radius: 6px;
   outline: none;
   box-shadow: rgba(225, 228, 232, 0.2) 0px 1px 0px 0px inset;
+
   :focus {
     border-color: #0366d6;
     outline: none;
     box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
   }
 }
+
 .m-p {
   margin: 0;
   padding: 0;

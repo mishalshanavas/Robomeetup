@@ -3,7 +3,7 @@ const questions = [
     questionP1: "What is the exact ",
     bold: "hexcode",
     questionP2: "of this color",
-    answer: "#57ff9a",
+    answer: "#941b31",
     imgbox: true,
   },
   {
@@ -17,7 +17,7 @@ const questions = [
     questionP1: "What is the natural",
     bold: "log of 8462?",
     questionP2: " ",
-    answer: "9.043340831280013",
+    answer: "9.043",
     imgbox: false,
   },
   {
