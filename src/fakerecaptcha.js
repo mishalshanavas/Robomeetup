@@ -42,7 +42,7 @@ let timer;
 
 function startTimer() {
   timeout = false;
-  let timeRemaining = 5;
+  let timeRemaining = 2;
   timer = setInterval(() => {
     timeRemaining -= 1;
     if (timeRemaining <= 0) {
